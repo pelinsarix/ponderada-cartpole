@@ -1,6 +1,6 @@
-## Vídeo Explicativo
+# Vídeo Explicativo
 
-(link)
+[![Assistir ao vídeo](https://img.youtube.com/vi/Y5YggIpSCc0/hqdefault.jpg)](https://youtu.be/Y5YggIpSCc0)
 
 # Otimização de Parâmetros para Q-Learning no Problema CartPole
 
